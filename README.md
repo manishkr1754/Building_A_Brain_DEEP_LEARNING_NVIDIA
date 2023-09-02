@@ -1,2 +1,2 @@
-# Building_A_Brain_DEEP_LEARNING_NVIDIA
-Explores the biological and psychological inspirations to the world's first neural networks
+# Building A Brain in 10 Minutes
+<center><a href="https://www.nvidia.com/en-us/training/"><img src="https://dli-lms.s3.amazonaws.com/assets/general/DLI_Header_White.png" width="400" height="186" /></a></center>
